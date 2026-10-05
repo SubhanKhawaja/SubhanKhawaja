@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Subhan Khawaja. CS Graduate & Software Developer. 
 
-<!--
-**SubhanKhawaja/SubhanKhawaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Stack  
 
-Here are some ideas to get you started:
+Languages: Dart, JavaScript, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mobile: Flutter, Android 
+
+Backend: Node.js, Express.js, Flask 
+
+Databases: MongoDB, Firebase, SQLite, Hive 
+
+AI/ML: TensorFlow Lite, YOLOv8, MobileNetV2, Google Gemini API, Groq API  
+
+Cloud & Automation: n8n, Firebase  
+
+Architecture: REST APIs, Edge AI, Offline-First Architecture 
+
+Let's Build Something.  
+
+I’m always interested in connecting with developers, students, and entrepreneurs who want to build robust cross-platform applications and automated workflows. 
+
+Learn, Build & Automate.
